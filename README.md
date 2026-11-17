@@ -11,3 +11,7 @@ The model predicts with an accuracy of 98%.
 I have to note though, that the model lets through more false negatives than false positives. 
 
 The project is subject to change in the future.
+
+
+*************************
+The data set used is an old SMS Spam Collection.
